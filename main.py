@@ -23,23 +23,5 @@ def run():
             }
         
         print(window_list)
-
-def test():
-    dictionaries = {
-        'test' : {
-            'timer' : 100
-        },
-        'test2': {
-            'timer': 200
-        }
-    }
-
-    dictionaries['test3'] = {
-        'timer' : 100
-    }
-    dictionaries['test3'] = {
-        'timer' : 300
-    }
-    print(dictionaries)
-
+        
 run()
