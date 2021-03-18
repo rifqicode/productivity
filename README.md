@@ -1,3 +1,3 @@
 # productivity
 
-Python application detect current active window
+Recording Application run time
